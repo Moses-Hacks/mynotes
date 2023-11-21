@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139524751156",
+    "project_id": "mynotes-58c8b",
+    "storage_bucket": "mynotes-58c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139524751156:android:680fb4f05b716a41c86f61",
+        "android_client_info": {
+          "package_name": "ng.puzzle.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpKxlu_3bXxN2Gu_XwrykT5oaE1cE8gB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
